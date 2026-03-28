@@ -7,9 +7,9 @@
     <AssemblyName>Landis.Extension.Output.Biomass-v4</AssemblyName>
     <AssemblyTitle>Landis.Extension.Output.Biomass-v4</AssemblyTitle>
     <AssemblyProduct>Landis.Extension.Output.Biomass-v4</AssemblyProduct>
-    <AssemblyVersion>4.0</AssemblyVersion>
-    <Version>4.0</Version>
-    <FileVersion>4.0</FileVersion>
+    <AssemblyVersion>4.1</AssemblyVersion>
+    <Version>4.1</Version>
+    <FileVersion>4.1</FileVersion>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass</RepositoryUrl>
@@ -33,8 +33,8 @@
     <Reference Include="Landis.Library.Metadata-v2">
       <HintPath>lib\Landis.Library.Metadata-v2.dll</HintPath>
     </Reference>
-    <Reference Include="Landis.Library.UniversalCohorts-v1">
-      <HintPath>lib\Landis.Library.UniversalCohorts-v1.dll</HintPath>
+    <Reference Include="Landis.Library.UniversalCohorts-v2">
+      <HintPath>lib\Landis.Library.UniversalCohorts-v2.dll</HintPath>
     </Reference>
   </ItemGroup>
   
